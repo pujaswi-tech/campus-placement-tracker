@@ -1,4 +1,3 @@
-# campus-placement-tracker
 # 🎓 Campus Placement Tracker
 This project is a complete solution for analyzing and visualizing campus placement data. It includes:
 - 📊 **Pandas-based data analysis** for exploring placement trends.
